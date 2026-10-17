@@ -1,8 +1,6 @@
 # ASAN-Service-Performance-Dashboard
 An end-to-end Power BI analytics dashboard analysing over 102 million service records of ASAN Service and benchmarking macro-trends against the State Employment Agency (DMA). Features advanced DAX, Galaxy Schema modelling, and actionable strategic insights for operational optimisation and digitalisation.
 
-# 📊 ASAN Service Operations & Macro-Trend Analytics Dashboard
-
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-Advanced-blue?style=for-the-badge)
 ![Power Query](https://img.shields.io/badge/Power_Query-ETL-green?style=for-the-badge)
