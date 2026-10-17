@@ -1,7 +1,7 @@
 # ASAN-Service-Performance-Dashboard
 An end-to-end Power BI analytics dashboard analysing over 102 million service records of ASAN Service and benchmarking macro-trends against the State Employment Agency (DMA). Features advanced DAX, Galaxy Schema modelling, and actionable strategic insights for operational optimisation and digitalisation.
 
-# 📊 ASAN Xidmət Operations & Macro-Trend Analytics Dashboard
+# 📊 ASAN Service Operations & Macro-Trend Analytics Dashboard
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-Advanced-blue?style=for-the-badge)
@@ -9,7 +9,7 @@ An end-to-end Power BI analytics dashboard analysing over 102 million service re
 ![Data Modeling](https://img.shields.io/badge/Data_Modeling-Galaxy_Schema-purple?style=for-the-badge)
 
 ## 📌 Project Overview
-This end-to-end Business Intelligence project was developed as the Final Capstone for the **"Data Analytics & GenAI"** program at **ABB Tech Academy** (Evaluated at 100/100). The dashboard provides a comprehensive analysis of **ASAN Xidmət** (State Agency for Public Service and Social Innovations) operational dynamics, citizen demographics, and workload distribution.
+This end-to-end Business Intelligence project was developed as the Final Project for the Power BI Module of the **"Data Analytics & GenAI"** program at **ABB Tech Academy** (Evaluated at 100/100). The dashboard provides a comprehensive analysis of **ASAN Xidmət** (State Agency for Public Service and Social Innovations) operational dynamics, citizen demographics, and workload distribution.
 
 Furthermore, it establishes a strategic benchmark against the **State Employment Agency (DMA)**, utilising multi-variable historical data to uncover macro-trends and provide actionable "Zero-Visit" digital transformation strategies.
 
