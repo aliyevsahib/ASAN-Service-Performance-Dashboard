@@ -84,5 +84,6 @@ Furthermore, it establishes a strategic benchmark against the **State Employment
 A special thanks to my instructor **Ayaz Hasanli**, Senior HR Data Analyst at AZCON Holding and Microsoft Certified Trainer (MCT), for not only teaching the visual aspects of Power BI but also instilling the deep logic of the DAX engine and the "Senior" business mindset: *"If a chart doesn't explain itself in 5-10 seconds, it's a failed chart."*
 
 ---
-**Let's Connect!**
-💼 [[LinkedIn](https://www.linkedin.com/in/sahib-aliyev-ai/)](Insert your LinkedIn URL here) | 📧 [Insert your Email here]
+**Connections:**
+💼 [LinkedIn](https://www.linkedin.com/in/sahib-aliyev-ai/)
+📧 [Gmail](mailto:sahibaliyev.ai@gmail.com)
