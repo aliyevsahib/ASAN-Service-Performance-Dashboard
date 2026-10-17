@@ -49,39 +49,29 @@ Furthermore, it establishes a strategic benchmark against the **State Employment
 ### 1. General Indicators & Geographic Distribution
 *(Provides macro-level KPIs, historical volume trends, and interactive mapping of service distribution)*
 <br>
-`[Insert Image: e.g., <img src="images/01_Overview.png" width="800">]`
+<img src="images/ASAN_Overview_Page.png" width="800">
 
 ### 2. Time Duration & Heatmap Analysis
 *(Uncovers daily and hourly workload peaks to optimize shift planning)*
 <br>
-`[Insert Image: e.g., <img src="images/02_Time_Analysis.png" width="800">]`
+<img src="images/ASAN_Time_Heatmap_Page.png" width="800">
 
 ### 3. Branch Workload & Service Types
 *(Highlights the disparity between capital and regional centers, and the utilization rate of mobile "Səyyar" services)*
 <br>
-`[Insert Image: e.g., <img src="images/03_Branches.png" width="800">]`
+<img src="images/ASAN_Workload_Page.png" width="800">
 
 ### 4. Citizen Demographics
 *(Breaks down user behavior by age, gender, and geographical variations)*
 <br>
-`[Insert Image: e.g., <img src="images/04_Demographics.png" width="800">]`
+<img src="images/ASAN_Citizen_Page.png" width="800">
 
 ### 5. Cross-Agency Benchmarking & Strategic Conclusions
 *(Compares ASAN vs. DMA growth indices and delivers executive-level operational recommendations)*
 <br>
-`[Insert Image: e.g., <img src="images/05_Benchmarking.png" width="800">]`
+<img src="images/ASAN_Final_Page.png" width="800">
 
 ### 6. Data Model (Galaxy Schema)
 *(Behind-the-scenes look at the robust relational data architecture)*
 <br>
-`[Insert Image: e.g., <img src="images/06_Data_Model.png" width="800">]`
-
----
-
-## 🙏 Acknowledgements
-A special thanks to my instructor **Ayaz Hasanli**, Senior HR Data Analyst at AZCON Holding and Microsoft Certified Trainer (MCT), for not only teaching the visual aspects of Power BI but also instilling the deep logic of the DAX engine and the "Senior" business mindset: *"If a chart doesn't explain itself in 5-10 seconds, it's a failed chart."*
-
----
-**Connections:**
-💼 [LinkedIn](https://www.linkedin.com/in/sahib-aliyev-ai/)
-📧 [Gmail](mailto:sahibaliyev.ai@gmail.com)
+<img src="images/ASAN_Galaxy_Schema.png" width="800">
