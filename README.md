@@ -22,7 +22,7 @@ Furthermore, it establishes a strategic benchmark against the **State Employment
 ### 1. Data Extraction & Transformation (ETL via Power Query)
 - Extracted 6 raw datasets from the official Open Data Portal (`opendata.vxsida.gov.az`) and DMA statistics.
 - Handled over **202,000+ rows** of core fact data.
-- Performed rigorous data cleaning, removed hardcoded columns, generated distinct `Dimension` reference tables, and optimized RAM usage by disabling the `Enable Load` feature for staging queries.
+- Performed rigorous data cleaning, removed hardcoded columns, generated distinct `Dimension` reference tables, and optimised RAM usage by disabling the `Enable Load` feature for staging queries.
 
 ### 2. Data Modelling (Galaxy Schema)
 - Designed a **Galaxy Schema (Fact Constellation)** to handle multiple independent fact tables (`Fact_Main`, `Fact_DMA`, `Fact_Demographic`, etc.) sharing conformed dimensions (`Dim_Date`, `Dim_Branch`).
@@ -81,8 +81,8 @@ Furthermore, it establishes a strategic benchmark against the **State Employment
 ---
 
 ## 🙏 Acknowledgements
-A special thanks to my instructor **Ayaz / Azay [Instructor's Last Name]**, Senior HR Data Analyst at AZCON Holding and Microsoft Certified Trainer (MCT), for not only teaching the visual aspects of Power BI but also instilling the deep logic of the DAX engine and the "Senior" business mindset: *"If a chart doesn't explain itself in 5-10 seconds, it's a failed chart."*
+A special thanks to my instructor **Ayaz Hasanli**, Senior HR Data Analyst at AZCON Holding and Microsoft Certified Trainer (MCT), for not only teaching the visual aspects of Power BI but also instilling the deep logic of the DAX engine and the "Senior" business mindset: *"If a chart doesn't explain itself in 5-10 seconds, it's a failed chart."*
 
 ---
 **Let's Connect!**
-💼 [LinkedIn](Insert your LinkedIn URL here) | 📧 [Insert your Email here]
+💼 [[LinkedIn](https://www.linkedin.com/in/sahib-aliyev-ai/)](Insert your LinkedIn URL here) | 📧 [Insert your Email here]
