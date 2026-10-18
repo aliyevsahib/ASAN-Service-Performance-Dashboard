@@ -9,7 +9,11 @@ An end-to-end Power BI analytics dashboard analysing over 102 million service re
 ## 📌 Project Overview
 This end-to-end Business Intelligence project was developed as the Final Project for the Power BI Module of the **"Data Analytics & GenAI"** program at **ABB Tech Academy** (Evaluated at 100/100). The dashboard provides a comprehensive analysis of **ASAN Xidmət** (State Agency for Public Service and Social Innovations) operational dynamics, citizen demographics, and workload distribution.
 
-<a href="https://app.powerbi.com/view?r=eyJrIjoiNjlmNjJiODEtMzczYy00ZjdhLWI1NGEtMTZhMTYxMDk4Njg1IiwidCI6ImQ5MzRiZjA4LTk1ZjQtNGNjZC1hZDFiLWYzODM3M2E5NDM1NyIsImMiOjl9&embedImagePlaceholder=true">Open the Dashboard</a>
+<div align="center">
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiNjlmNjJiODEtMzczYy00ZjdhLWI1NGEtMTZhMTYxMDk4Njg1IiwidCI6ImQ5MzRiZjA4LTk1ZjQtNGNjZC1hZDFiLWYzODM3M2E5NDM1NyIsImMiOjl9&embedImagePlaceholder=true" target="_blank">
+    <img src="https://img.shields.io/badge/📊_Explore_Live_Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Live Dashboard" width="300"/>
+  </a>
+</div>
 
 Furthermore, it establishes a strategic benchmark against the **State Employment Agency (DMA)**, utilising multi-variable historical data to uncover macro-trends and provide actionable "Zero-Visit" digital transformation strategies.
 
